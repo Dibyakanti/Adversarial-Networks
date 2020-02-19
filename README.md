@@ -1,2 +1,3 @@
 # Adversarial-Networks
-ventures into creating and training adversarial networks
+
+## 1. DCGAN
